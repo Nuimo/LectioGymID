@@ -39,6 +39,8 @@ if __name__ == "__main__":
             print('Fejl i længde af listerne')
         return gymnames_id_dict
 
-
-#id_dict = getgymid()
-#print(id_dict)
+# Fjern kommentaren nedenunder for en demo
+"""
+id_dict = getgymid()
+print(id_dict)
+"""
